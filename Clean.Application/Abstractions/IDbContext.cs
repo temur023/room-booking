@@ -1,6 +1,6 @@
 namespace Clean.Application.Abstractions;
 
-public interface IDbContext
+public interface IDbContexfet
 {
     Task<int> SaveChangesAsync(CancellationToken cancellationToken = default);
 }
