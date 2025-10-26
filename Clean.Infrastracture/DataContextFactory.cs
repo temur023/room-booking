@@ -5,20 +5,21 @@ using Microsoft.Extensions.Configuration;
 
 namespace Clean.Infrastracture;
 
-public class DataContextFactory : IDesignTimeDbContextFactory<DataContext>
+public class DataContextFactor : IDesignTimeDbContextFactory<DataContext>
 {
     public DataContext CreateDbContext(string[] args)
     {
-        var basePath = Path.GetFullPath(Path.Combine(Directory.GetCurrentDirectory(), "../Exam.WebApi"));
+        // Adjust path to your WebApi folder
+        var basePath = Path.Combine(Directory.GetCurrentDirectory(), "../Clean.WebApi");
 
         var config = new ConfigurationBuilder()
             .SetBasePath(basePath)
-            .AddJsonFile("appsettings.json", optional: false)
+            .AddJsonFile("appsettings.json", optional: false, reloadOnChange: true)
             .Build();
 
-        var optionsBuilder = new DbContextOptionsBuilder<DataContext>();
         var connectionString = config.GetConnectionString("Default");
 
+        var optionsBuilder = new DbContextOptionsBuilder<DataContext>();
         optionsBuilder.UseNpgsql(connectionString);
 
         return new DataContext(optionsBuilder.Options);

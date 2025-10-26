@@ -109,7 +109,7 @@
           "dependencies": {
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
-              "version": "[9.0.10, )"
+              "version": "[9.0.9, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -259,11 +259,11 @@
           "dependencies": {
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
-              "version": "[9.0.10, )"
+              "version": "[9.0.9, )"
             },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
-              "version": "[9.0.8, )"
+              "version": "[9.0.9, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -277,7 +277,7 @@
             },
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
-              "version": "[9.0.10, )"
+              "version": "[9.0.9, )"
             },
             "Microsoft.IdentityModel.Tokens": {
               "target": "Package",

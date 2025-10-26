@@ -12,9 +12,11 @@ var builder = WebApplication.CreateBuilder(args);
 Log.Logger = new LoggerConfiguration()
     .ReadFrom.Configuration(builder.Configuration)
     .Enrich.FromLogContext()
+    .WriteTo.Console()
+    .MinimumLevel.Override("Microsoft.Hosting.Lifetime", LogEventLevel.Information)
     .CreateLogger();
-builder.Services.AddSerilog();
-builder.Host.UseSerilog();
+
+builder.Host.UseSerilog(Log.Logger); 
 builder.Services.RegisterInfrastructureServices(builder.Configuration);
 builder.Services.AddControllers();
 builder.Services.AddOpenApi();
@@ -83,4 +85,16 @@ app.UseAuthorization();
 
 app.MapControllers();
 
-app.Run();
+try
+{
+    Log.Information(" Starting web host!");
+    app.Run();
+}
+catch (Exception ex)
+{
+    Log.Fatal(ex, "Host terminated unexpectedly!");
+}
+finally
+{
+    Log.CloseAndFlush();
+}

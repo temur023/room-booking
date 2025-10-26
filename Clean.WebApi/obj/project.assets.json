@@ -15,7 +15,7 @@
           }
         }
       },
-      "Microsoft.AspNetCore.Authentication.JwtBearer/9.0.10": {
+      "Microsoft.AspNetCore.Authentication.JwtBearer/9.0.9": {
         "type": "package",
         "dependencies": {
           "Microsoft.IdentityModel.Protocols.OpenIdConnect": "8.0.1"
@@ -34,7 +34,7 @@
           "Microsoft.AspNetCore.App"
         ]
       },
-      "Microsoft.AspNetCore.OpenApi/9.0.8": {
+      "Microsoft.AspNetCore.OpenApi/9.0.9": {
         "type": "package",
         "dependencies": {
           "Microsoft.OpenApi": "1.6.17"
@@ -541,11 +541,11 @@
           "buildTransitive/net8.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Configuration/9.0.10": {
+      "Microsoft.Extensions.Configuration/9.0.9": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.Configuration.Abstractions": "9.0.10",
-          "Microsoft.Extensions.Primitives": "9.0.10"
+          "Microsoft.Extensions.Configuration.Abstractions": "9.0.9",
+          "Microsoft.Extensions.Primitives": "9.0.9"
         },
         "compile": {
           "lib/net9.0/Microsoft.Extensions.Configuration.dll": {
@@ -561,10 +561,10 @@
           "buildTransitive/net8.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Configuration.Abstractions/9.0.10": {
+      "Microsoft.Extensions.Configuration.Abstractions/9.0.9": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.Primitives": "9.0.10"
+          "Microsoft.Extensions.Primitives": "9.0.9"
         },
         "compile": {
           "lib/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll": {
@@ -772,7 +772,7 @@
           "buildTransitive/net8.0/Microsoft.Extensions.Options.targets": {}
         }
       },
-      "Microsoft.Extensions.Primitives/9.0.10": {
+      "Microsoft.Extensions.Primitives/9.0.9": {
         "type": "package",
         "compile": {
           "lib/net9.0/Microsoft.Extensions.Primitives.dll": {
@@ -1430,7 +1430,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
         "dependencies": {
-          "Microsoft.AspNetCore.Authentication.JwtBearer": "9.0.10",
+          "Microsoft.AspNetCore.Authentication.JwtBearer": "9.0.9",
           "Microsoft.EntityFrameworkCore": "9.0.9",
           "Microsoft.IdentityModel.Tokens": "8.14.0",
           "Npgsql.EntityFrameworkCore.PostgreSQL": "9.0.4"
@@ -1476,10 +1476,10 @@
         "logo.png"
       ]
     },
-    "Microsoft.AspNetCore.Authentication.JwtBearer/9.0.10": {
-      "sha512": "lf82sEH4eETi8DBfV7UIkAYPKJuU9OT0Xpw7OcWC5dHWNZYnxVqhT6jM3Y1Hz3yXhbhTRTmcz4U/+VfcZCBkSA==",
+    "Microsoft.AspNetCore.Authentication.JwtBearer/9.0.9": {
+      "sha512": "U5gW2DS/yAE9X0Ko63/O2lNApAzI/jhx4IT1Th6W0RShKv6XAVVgLGN3zqnmcd6DtAnp5FYs+4HZrxsTl0anLA==",
       "type": "package",
-      "path": "microsoft.aspnetcore.authentication.jwtbearer/9.0.10",
+      "path": "microsoft.aspnetcore.authentication.jwtbearer/9.0.9",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1488,14 +1488,14 @@
         "THIRD-PARTY-NOTICES.TXT",
         "lib/net9.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll",
         "lib/net9.0/Microsoft.AspNetCore.Authentication.JwtBearer.xml",
-        "microsoft.aspnetcore.authentication.jwtbearer.9.0.10.nupkg.sha512",
+        "microsoft.aspnetcore.authentication.jwtbearer.9.0.9.nupkg.sha512",
         "microsoft.aspnetcore.authentication.jwtbearer.nuspec"
       ]
     },
-    "Microsoft.AspNetCore.OpenApi/9.0.8": {
-      "sha512": "BwF9sQCKmvu93C/pmKxJjPhF5fFB23MEcgTsGL+7W3wKLYawS4lyFSL5/qh00IJzuADLf+1SmvxMaphbyZYqQQ==",
+    "Microsoft.AspNetCore.OpenApi/9.0.9": {
+      "sha512": "3Sina0gS/CTYt9XG6DUFPdXOmJui7e551U0kO2bIiDk3vZ2sctxxenN+cE1a5CrUpjIVZfZr32neWYYRO+Piaw==",
       "type": "package",
-      "path": "microsoft.aspnetcore.openapi/9.0.8",
+      "path": "microsoft.aspnetcore.openapi/9.0.9",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1504,7 +1504,7 @@
         "THIRD-PARTY-NOTICES.TXT",
         "lib/net9.0/Microsoft.AspNetCore.OpenApi.dll",
         "lib/net9.0/Microsoft.AspNetCore.OpenApi.xml",
-        "microsoft.aspnetcore.openapi.9.0.8.nupkg.sha512",
+        "microsoft.aspnetcore.openapi.9.0.9.nupkg.sha512",
         "microsoft.aspnetcore.openapi.nuspec"
       ]
     },
@@ -2879,10 +2879,10 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "Microsoft.Extensions.Configuration/9.0.10": {
-      "sha512": "UAm3SLGAMlJdowbN+/xnh2UGJkdJoXVm4MsdhZ60dAMS8jteoyCx5WfIab5DKv0TCYpdhVecLJVUjEO3abs9UQ==",
+    "Microsoft.Extensions.Configuration/9.0.9": {
+      "sha512": "w87wF/90/VI0ZQBhf4rbMEeyEy0vi2WKjFmACsNAKNaorY+ZlVz7ddyXkbADvaWouMKffNmR0yQOGcrvSSvKGg==",
       "type": "package",
-      "path": "microsoft.extensions.configuration/9.0.10",
+      "path": "microsoft.extensions.configuration/9.0.9",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -2902,15 +2902,15 @@
         "lib/net9.0/Microsoft.Extensions.Configuration.xml",
         "lib/netstandard2.0/Microsoft.Extensions.Configuration.dll",
         "lib/netstandard2.0/Microsoft.Extensions.Configuration.xml",
-        "microsoft.extensions.configuration.9.0.10.nupkg.sha512",
+        "microsoft.extensions.configuration.9.0.9.nupkg.sha512",
         "microsoft.extensions.configuration.nuspec",
         "useSharedDesignerContext.txt"
       ]
     },
-    "Microsoft.Extensions.Configuration.Abstractions/9.0.10": {
-      "sha512": "ad3JxmFj0uxuFa1CT6oxTCC1lQ0xeRuOvzBRFT/I/ofIXVOnNsH/v2GZkAJWhlpZqKUvSexQZzp3EEAB2CdtJg==",
+    "Microsoft.Extensions.Configuration.Abstractions/9.0.9": {
+      "sha512": "p5RKAY9POvs3axwA/AQRuJeM8AHuE8h4qbP1NxQeGm0ep46aXz1oCLAp/oOYxX1GsjStgdhHrN3XXLLXr0+b3w==",
       "type": "package",
-      "path": "microsoft.extensions.configuration.abstractions/9.0.10",
+      "path": "microsoft.extensions.configuration.abstractions/9.0.9",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -2930,7 +2930,7 @@
         "lib/net9.0/Microsoft.Extensions.Configuration.Abstractions.xml",
         "lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.dll",
         "lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.xml",
-        "microsoft.extensions.configuration.abstractions.9.0.10.nupkg.sha512",
+        "microsoft.extensions.configuration.abstractions.9.0.9.nupkg.sha512",
         "microsoft.extensions.configuration.abstractions.nuspec",
         "useSharedDesignerContext.txt"
       ]
@@ -3293,10 +3293,10 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "Microsoft.Extensions.Primitives/9.0.10": {
-      "sha512": "3pl8D1O5ZwMpDkZAT2uXrhQ6NipkwEgDLMFuURiHTf72TvkoMP61QYH3Vk1yrzVHnHBdNZk3cQACz8Zc7YGNhQ==",
+    "Microsoft.Extensions.Primitives/9.0.9": {
+      "sha512": "z4pyMePOrl733ltTowbN565PxBw1oAr8IHmIXNDiDqd22nFpYltX9KhrNC/qBWAG1/Zx5MHX+cOYhWJQYCO/iw==",
       "type": "package",
-      "path": "microsoft.extensions.primitives/9.0.10",
+      "path": "microsoft.extensions.primitives/9.0.9",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -3316,7 +3316,7 @@
         "lib/net9.0/Microsoft.Extensions.Primitives.xml",
         "lib/netstandard2.0/Microsoft.Extensions.Primitives.dll",
         "lib/netstandard2.0/Microsoft.Extensions.Primitives.xml",
-        "microsoft.extensions.primitives.9.0.10.nupkg.sha512",
+        "microsoft.extensions.primitives.9.0.9.nupkg.sha512",
         "microsoft.extensions.primitives.nuspec",
         "useSharedDesignerContext.txt"
       ]
@@ -4234,11 +4234,11 @@
   "projectFileDependencyGroups": {
     "net9.0": [
       "Clean.Infrastracture >= 1.0.0",
-      "Microsoft.AspNetCore.Authentication.JwtBearer >= 9.0.10",
-      "Microsoft.AspNetCore.OpenApi >= 9.0.8",
+      "Microsoft.AspNetCore.Authentication.JwtBearer >= 9.0.9",
+      "Microsoft.AspNetCore.OpenApi >= 9.0.9",
       "Microsoft.EntityFrameworkCore >= 9.0.9",
       "Microsoft.EntityFrameworkCore.Design >= 9.0.9",
-      "Microsoft.Extensions.Configuration >= 9.0.10",
+      "Microsoft.Extensions.Configuration >= 9.0.9",
       "Microsoft.IdentityModel.Tokens >= 8.14.0",
       "Npgsql.EntityFrameworkCore.PostgreSQL >= 9.0.4",
       "Serilog >= 4.3.0",
@@ -4298,11 +4298,11 @@
         "dependencies": {
           "Microsoft.AspNetCore.Authentication.JwtBearer": {
             "target": "Package",
-            "version": "[9.0.10, )"
+            "version": "[9.0.9, )"
           },
           "Microsoft.AspNetCore.OpenApi": {
             "target": "Package",
-            "version": "[9.0.8, )"
+            "version": "[9.0.9, )"
           },
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",
@@ -4316,7 +4316,7 @@
           },
           "Microsoft.Extensions.Configuration": {
             "target": "Package",
-            "version": "[9.0.10, )"
+            "version": "[9.0.9, )"
           },
           "Microsoft.IdentityModel.Tokens": {
             "target": "Package",

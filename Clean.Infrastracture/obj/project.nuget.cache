@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "G1HlC0wCaYM=",
+  "dgSpecHash": "S6ZQskE1dCg=",
   "success": true,
   "projectFilePath": "/Users/fsdf/Documents/Alif/RoomBooking/Clean.Infrastracture/Clean.Infrastracture.csproj",
   "expectedPackageFiles": [
-    "/Users/fsdf/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/9.0.10/microsoft.aspnetcore.authentication.jwtbearer.9.0.10.nupkg.sha512",
+    "/Users/fsdf/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/9.0.9/microsoft.aspnetcore.authentication.jwtbearer.9.0.9.nupkg.sha512",
     "/Users/fsdf/.nuget/packages/microsoft.entityframeworkcore/9.0.9/microsoft.entityframeworkcore.9.0.9.nupkg.sha512",
     "/Users/fsdf/.nuget/packages/microsoft.entityframeworkcore.abstractions/9.0.9/microsoft.entityframeworkcore.abstractions.9.0.9.nupkg.sha512",
     "/Users/fsdf/.nuget/packages/microsoft.entityframeworkcore.analyzers/9.0.9/microsoft.entityframeworkcore.analyzers.9.0.9.nupkg.sha512",
