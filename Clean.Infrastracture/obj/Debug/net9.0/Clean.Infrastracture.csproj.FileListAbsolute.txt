@@ -1,0 +1,70 @@
+/Users/fsdf/Downloads/room-booking-main/Clean.Infrastracture/bin/Debug/net9.0/Clean.Infrastracture.deps.json
+/Users/fsdf/Downloads/room-booking-main/Clean.Infrastracture/bin/Debug/net9.0/Clean.Infrastracture.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.Infrastracture/bin/Debug/net9.0/Clean.Infrastracture.pdb
+/Users/fsdf/Downloads/room-booking-main/Clean.Infrastracture/bin/Debug/net9.0/Clean.Application.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.Infrastracture/bin/Debug/net9.0/Clean.Domain.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.Infrastracture/bin/Debug/net9.0/Clean.Application.pdb
+/Users/fsdf/Downloads/room-booking-main/Clean.Infrastracture/bin/Debug/net9.0/Clean.Domain.pdb
+/Users/fsdf/Downloads/room-booking-main/Clean.Infrastracture/obj/Debug/net9.0/Clean.Infrastracture.csproj.AssemblyReference.cache
+/Users/fsdf/Downloads/room-booking-main/Clean.Infrastracture/obj/Debug/net9.0/Clean.Infrastracture.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fsdf/Downloads/room-booking-main/Clean.Infrastracture/obj/Debug/net9.0/Clean.Infrastracture.AssemblyInfoInputs.cache
+/Users/fsdf/Downloads/room-booking-main/Clean.Infrastracture/obj/Debug/net9.0/Clean.Infrastracture.AssemblyInfo.cs
+/Users/fsdf/Downloads/room-booking-main/Clean.Infrastracture/obj/Debug/net9.0/Clean.Infrastracture.csproj.CoreCompileInputs.cache
+/Users/fsdf/Downloads/room-booking-main/Clean.Infrastracture/obj/Debug/net9.0/Clean.In.DBCA3E57.Up2Date
+/Users/fsdf/Downloads/room-booking-main/Clean.Infrastracture/obj/Debug/net9.0/Clean.Infrastracture.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.Infrastracture/obj/Debug/net9.0/refint/Clean.Infrastracture.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.Infrastracture/obj/Debug/net9.0/Clean.Infrastracture.pdb
+/Users/fsdf/Downloads/room-booking-main/Clean.Infrastracture/obj/Debug/net9.0/ref/Clean.Infrastracture.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.Infrastracture/bin/Debug/net9.0/Clean.Infrastracture.deps.json
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.Infrastracture/bin/Debug/net9.0/Clean.Infrastracture.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.Infrastracture/bin/Debug/net9.0/Clean.Infrastracture.pdb
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.Infrastracture/bin/Debug/net9.0/Clean.Application.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.Infrastracture/bin/Debug/net9.0/Clean.Domain.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.Infrastracture/bin/Debug/net9.0/Clean.Application.pdb
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.Infrastracture/bin/Debug/net9.0/Clean.Domain.pdb
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.Infrastracture/obj/Debug/net9.0/Clean.Infrastracture.csproj.AssemblyReference.cache
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.Infrastracture/obj/Debug/net9.0/Clean.Infrastracture.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.Infrastracture/obj/Debug/net9.0/Clean.Infrastracture.AssemblyInfoInputs.cache
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.Infrastracture/obj/Debug/net9.0/Clean.Infrastracture.AssemblyInfo.cs
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.Infrastracture/obj/Debug/net9.0/Clean.Infrastracture.csproj.CoreCompileInputs.cache
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.Infrastracture/obj/Debug/net9.0/Clean.Infrastracture.sourcelink.json
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.Infrastracture/obj/Debug/net9.0/Clean.In.DBCA3E57.Up2Date
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.Infrastracture/obj/Debug/net9.0/Clean.Infrastracture.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.Infrastracture/obj/Debug/net9.0/refint/Clean.Infrastracture.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.Infrastracture/obj/Debug/net9.0/Clean.Infrastracture.pdb
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.Infrastracture/obj/Debug/net9.0/ref/Clean.Infrastracture.dll
+D:/room-booking-main/room-booking-main/Clean.Infrastracture/bin/Debug/net9.0/Clean.Infrastracture.deps.json
+D:/room-booking-main/room-booking-main/Clean.Infrastracture/bin/Debug/net9.0/Clean.Infrastracture.dll
+D:/room-booking-main/room-booking-main/Clean.Infrastracture/bin/Debug/net9.0/Clean.Infrastracture.pdb
+D:/room-booking-main/room-booking-main/Clean.Infrastracture/bin/Debug/net9.0/Clean.Application.dll
+D:/room-booking-main/room-booking-main/Clean.Infrastracture/bin/Debug/net9.0/Clean.Domain.dll
+D:/room-booking-main/room-booking-main/Clean.Infrastracture/bin/Debug/net9.0/Clean.Application.pdb
+D:/room-booking-main/room-booking-main/Clean.Infrastracture/bin/Debug/net9.0/Clean.Domain.pdb
+D:/room-booking-main/room-booking-main/Clean.Infrastracture/obj/Debug/net9.0/Clean.Infrastracture.csproj.AssemblyReference.cache
+D:/room-booking-main/room-booking-main/Clean.Infrastracture/obj/Debug/net9.0/Clean.Infrastracture.GeneratedMSBuildEditorConfig.editorconfig
+D:/room-booking-main/room-booking-main/Clean.Infrastracture/obj/Debug/net9.0/Clean.Infrastracture.AssemblyInfoInputs.cache
+D:/room-booking-main/room-booking-main/Clean.Infrastracture/obj/Debug/net9.0/Clean.Infrastracture.AssemblyInfo.cs
+D:/room-booking-main/room-booking-main/Clean.Infrastracture/obj/Debug/net9.0/Clean.Infrastracture.csproj.CoreCompileInputs.cache
+D:/room-booking-main/room-booking-main/Clean.Infrastracture/obj/Debug/net9.0/Clean.Infrastracture.sourcelink.json
+D:/room-booking-main/room-booking-main/Clean.Infrastracture/obj/Debug/net9.0/Clean.In.DBCA3E57.Up2Date
+D:/room-booking-main/room-booking-main/Clean.Infrastracture/obj/Debug/net9.0/Clean.Infrastracture.dll
+D:/room-booking-main/room-booking-main/Clean.Infrastracture/obj/Debug/net9.0/refint/Clean.Infrastracture.dll
+D:/room-booking-main/room-booking-main/Clean.Infrastracture/obj/Debug/net9.0/Clean.Infrastracture.pdb
+D:/room-booking-main/room-booking-main/Clean.Infrastracture/obj/Debug/net9.0/ref/Clean.Infrastracture.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.Infrastracture/bin/Debug/net9.0/Clean.Infrastracture.deps.json
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.Infrastracture/bin/Debug/net9.0/Clean.Infrastracture.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.Infrastracture/bin/Debug/net9.0/Clean.Infrastracture.pdb
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.Infrastracture/bin/Debug/net9.0/Clean.Application.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.Infrastracture/bin/Debug/net9.0/Clean.Domain.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.Infrastracture/bin/Debug/net9.0/Clean.Application.pdb
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.Infrastracture/bin/Debug/net9.0/Clean.Domain.pdb
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.Infrastracture/obj/Debug/net9.0/Clean.Infrastracture.csproj.AssemblyReference.cache
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.Infrastracture/obj/Debug/net9.0/Clean.Infrastracture.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.Infrastracture/obj/Debug/net9.0/Clean.Infrastracture.AssemblyInfoInputs.cache
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.Infrastracture/obj/Debug/net9.0/Clean.Infrastracture.AssemblyInfo.cs
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.Infrastracture/obj/Debug/net9.0/Clean.Infrastracture.csproj.CoreCompileInputs.cache
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.Infrastracture/obj/Debug/net9.0/Clean.In.DBCA3E57.Up2Date
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.Infrastracture/obj/Debug/net9.0/Clean.Infrastracture.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.Infrastracture/obj/Debug/net9.0/refint/Clean.Infrastracture.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.Infrastracture/obj/Debug/net9.0/Clean.Infrastracture.pdb
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.Infrastracture/obj/Debug/net9.0/ref/Clean.Infrastracture.dll

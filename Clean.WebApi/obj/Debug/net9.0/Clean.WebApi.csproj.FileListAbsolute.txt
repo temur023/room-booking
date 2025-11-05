@@ -1,0 +1,636 @@
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/appsettings.Development.json
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/appsettings.json
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Clean.WebApi.staticwebassets.endpoints.json
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Clean.WebApi
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Clean.WebApi.deps.json
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Clean.WebApi.runtimeconfig.json
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Clean.WebApi.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Clean.WebApi.pdb
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Humanizer.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.Build.Locator.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.Extensions.Configuration.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Mono.TextTemplating.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Npgsql.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Serilog.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Serilog.AspNetCore.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Serilog.Extensions.Hosting.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Serilog.Extensions.Logging.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Serilog.Formatting.Compact.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Serilog.Settings.Configuration.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Serilog.Sinks.Console.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Serilog.Sinks.Debug.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Serilog.Sinks.File.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/System.CodeDom.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/System.Composition.AttributedModel.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/System.Composition.Convention.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/System.Composition.Hosting.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/System.Composition.Runtime.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/System.Composition.TypedParts.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/System.Text.Json.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Clean.Application.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Clean.Domain.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Clean.Infrastracture.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Clean.Infrastracture.pdb
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Clean.Application.pdb
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Clean.Domain.pdb
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/obj/Debug/net9.0/Clean.WebApi.csproj.AssemblyReference.cache
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/obj/Debug/net9.0/rpswa.dswa.cache.json
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/obj/Debug/net9.0/Clean.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/obj/Debug/net9.0/Clean.WebApi.AssemblyInfoInputs.cache
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/obj/Debug/net9.0/Clean.WebApi.AssemblyInfo.cs
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/obj/Debug/net9.0/Clean.WebApi.csproj.CoreCompileInputs.cache
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/obj/Debug/net9.0/Clean.WebApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/obj/Debug/net9.0/Clean.WebApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/obj/Debug/net9.0/rjimswa.dswa.cache.json
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/obj/Debug/net9.0/scopedcss/bundle/Clean.WebApi.styles.css
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/obj/Debug/net9.0/staticwebassets.build.json
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/obj/Debug/net9.0/staticwebassets.build.json.cache
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/obj/Debug/net9.0/staticwebassets.development.json
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/obj/Debug/net9.0/Clean.We.07EF57BB.Up2Date
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/obj/Debug/net9.0/Clean.WebApi.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/obj/Debug/net9.0/refint/Clean.WebApi.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/obj/Debug/net9.0/Clean.WebApi.pdb
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/obj/Debug/net9.0/Clean.WebApi.genruntimeconfig.cache
+/Users/fsdf/Downloads/room-booking-main/Clean.WebApi/obj/Debug/net9.0/ref/Clean.WebApi.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/appsettings.Development.json
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/appsettings.json
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/Clean.WebApi.staticwebassets.endpoints.json
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/Clean.WebApi
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/Clean.WebApi.deps.json
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/Clean.WebApi.runtimeconfig.json
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/Clean.WebApi.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/Clean.WebApi.pdb
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/DevOne.Security.Cryptography.BCrypt.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/BCrypt.Net-Next.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/Humanizer.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/Microsoft.Build.Locator.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/Microsoft.Extensions.Configuration.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/Mono.TextTemplating.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/Npgsql.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/Serilog.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/Serilog.AspNetCore.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/Serilog.Extensions.Hosting.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/Serilog.Extensions.Logging.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/Serilog.Formatting.Compact.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/Serilog.Settings.Configuration.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/Serilog.Sinks.Console.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/Serilog.Sinks.Debug.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/Serilog.Sinks.File.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/System.CodeDom.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/System.Composition.AttributedModel.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/System.Composition.Convention.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/System.Composition.Hosting.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/System.Composition.Runtime.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/System.Composition.TypedParts.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/System.Text.Json.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/Clean.Application.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/Clean.Domain.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/Clean.Infrastracture.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/Clean.Infrastracture.pdb
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/Clean.Application.pdb
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/bin/Debug/net9.0/Clean.Domain.pdb
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/obj/Debug/net9.0/Clean.WebApi.csproj.AssemblyReference.cache
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/obj/Debug/net9.0/rpswa.dswa.cache.json
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/obj/Debug/net9.0/Clean.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/obj/Debug/net9.0/Clean.WebApi.AssemblyInfoInputs.cache
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/obj/Debug/net9.0/Clean.WebApi.AssemblyInfo.cs
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/obj/Debug/net9.0/Clean.WebApi.csproj.CoreCompileInputs.cache
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/obj/Debug/net9.0/Clean.WebApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/obj/Debug/net9.0/Clean.WebApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/obj/Debug/net9.0/Clean.WebApi.sourcelink.json
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/obj/Debug/net9.0/rjimswa.dswa.cache.json
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/obj/Debug/net9.0/scopedcss/bundle/Clean.WebApi.styles.css
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/obj/Debug/net9.0/staticwebassets.build.json
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/obj/Debug/net9.0/staticwebassets.build.json.cache
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/obj/Debug/net9.0/staticwebassets.development.json
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/obj/Debug/net9.0/Clean.We.07EF57BB.Up2Date
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/obj/Debug/net9.0/Clean.WebApi.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/obj/Debug/net9.0/refint/Clean.WebApi.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/obj/Debug/net9.0/Clean.WebApi.pdb
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/obj/Debug/net9.0/Clean.WebApi.genruntimeconfig.cache
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.WebApi/obj/Debug/net9.0/ref/Clean.WebApi.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/appsettings.Development.json
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/appsettings.json
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Clean.WebApi.staticwebassets.endpoints.json
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Clean.WebApi.exe
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Clean.WebApi.deps.json
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Clean.WebApi.runtimeconfig.json
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Clean.WebApi.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Clean.WebApi.pdb
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/DevOne.Security.Cryptography.BCrypt.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/BCrypt.Net-Next.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Humanizer.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.Build.Locator.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.Extensions.Caching.Abstractions.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.Extensions.Caching.Memory.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.Extensions.Configuration.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.OpenApi.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Mono.TextTemplating.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Npgsql.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Serilog.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Serilog.AspNetCore.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Serilog.Extensions.Hosting.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Serilog.Extensions.Logging.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Serilog.Formatting.Compact.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Serilog.Settings.Configuration.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Serilog.Sinks.Console.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Serilog.Sinks.Debug.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Serilog.Sinks.File.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/System.CodeDom.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/System.Composition.AttributedModel.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/System.Composition.Convention.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/System.Composition.Hosting.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/System.Composition.Runtime.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/System.Composition.TypedParts.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Clean.Application.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Clean.Domain.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Clean.Infrastracture.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Clean.Infrastracture.pdb
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Clean.Application.pdb
+D:/room-booking-main/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Clean.Domain.pdb
+D:/room-booking-main/room-booking-main/Clean.WebApi/obj/Debug/net9.0/Clean.WebApi.csproj.AssemblyReference.cache
+D:/room-booking-main/room-booking-main/Clean.WebApi/obj/Debug/net9.0/rpswa.dswa.cache.json
+D:/room-booking-main/room-booking-main/Clean.WebApi/obj/Debug/net9.0/Clean.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:/room-booking-main/room-booking-main/Clean.WebApi/obj/Debug/net9.0/Clean.WebApi.AssemblyInfoInputs.cache
+D:/room-booking-main/room-booking-main/Clean.WebApi/obj/Debug/net9.0/Clean.WebApi.AssemblyInfo.cs
+D:/room-booking-main/room-booking-main/Clean.WebApi/obj/Debug/net9.0/Clean.WebApi.csproj.CoreCompileInputs.cache
+D:/room-booking-main/room-booking-main/Clean.WebApi/obj/Debug/net9.0/Clean.WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:/room-booking-main/room-booking-main/Clean.WebApi/obj/Debug/net9.0/Clean.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:/room-booking-main/room-booking-main/Clean.WebApi/obj/Debug/net9.0/Clean.WebApi.sourcelink.json
+D:/room-booking-main/room-booking-main/Clean.WebApi/obj/Debug/net9.0/rjimswa.dswa.cache.json
+D:/room-booking-main/room-booking-main/Clean.WebApi/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
+D:/room-booking-main/room-booking-main/Clean.WebApi/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
+D:/room-booking-main/room-booking-main/Clean.WebApi/obj/Debug/net9.0/scopedcss/bundle/Clean.WebApi.styles.css
+D:/room-booking-main/room-booking-main/Clean.WebApi/obj/Debug/net9.0/staticwebassets.build.json
+D:/room-booking-main/room-booking-main/Clean.WebApi/obj/Debug/net9.0/staticwebassets.build.json.cache
+D:/room-booking-main/room-booking-main/Clean.WebApi/obj/Debug/net9.0/staticwebassets.development.json
+D:/room-booking-main/room-booking-main/Clean.WebApi/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+D:/room-booking-main/room-booking-main/Clean.WebApi/obj/Debug/net9.0/swae.build.ex.cache
+D:/room-booking-main/room-booking-main/Clean.WebApi/obj/Debug/net9.0/Clean.We.07EF57BB.Up2Date
+D:/room-booking-main/room-booking-main/Clean.WebApi/obj/Debug/net9.0/Clean.WebApi.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/obj/Debug/net9.0/refint/Clean.WebApi.dll
+D:/room-booking-main/room-booking-main/Clean.WebApi/obj/Debug/net9.0/Clean.WebApi.pdb
+D:/room-booking-main/room-booking-main/Clean.WebApi/obj/Debug/net9.0/Clean.WebApi.genruntimeconfig.cache
+D:/room-booking-main/room-booking-main/Clean.WebApi/obj/Debug/net9.0/ref/Clean.WebApi.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/appsettings.Development.json
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/appsettings.json
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Clean.WebApi.staticwebassets.endpoints.json
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Clean.WebApi
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Clean.WebApi.deps.json
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Clean.WebApi.runtimeconfig.json
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Clean.WebApi.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Clean.WebApi.pdb
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/DevOne.Security.Cryptography.BCrypt.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/BCrypt.Net-Next.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Humanizer.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.Build.Locator.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.Extensions.Configuration.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Mono.TextTemplating.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Npgsql.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Serilog.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Serilog.AspNetCore.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Serilog.Extensions.Hosting.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Serilog.Extensions.Logging.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Serilog.Formatting.Compact.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Serilog.Settings.Configuration.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Serilog.Sinks.Console.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Serilog.Sinks.Debug.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Serilog.Sinks.File.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/System.CodeDom.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/System.Composition.AttributedModel.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/System.Composition.Convention.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/System.Composition.Hosting.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/System.Composition.Runtime.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/System.Composition.TypedParts.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/System.Text.Json.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Clean.Application.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Clean.Domain.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Clean.Infrastracture.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Clean.Infrastracture.pdb
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Clean.Application.pdb
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/bin/Debug/net9.0/Clean.Domain.pdb
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/obj/Debug/net9.0/Clean.WebApi.csproj.AssemblyReference.cache
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/obj/Debug/net9.0/rpswa.dswa.cache.json
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/obj/Debug/net9.0/Clean.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/obj/Debug/net9.0/Clean.WebApi.AssemblyInfoInputs.cache
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/obj/Debug/net9.0/Clean.WebApi.AssemblyInfo.cs
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/obj/Debug/net9.0/Clean.WebApi.csproj.CoreCompileInputs.cache
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/obj/Debug/net9.0/Clean.WebApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/obj/Debug/net9.0/Clean.WebApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/obj/Debug/net9.0/rjimswa.dswa.cache.json
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/obj/Debug/net9.0/scopedcss/bundle/Clean.WebApi.styles.css
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/obj/Debug/net9.0/staticwebassets.build.json
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/obj/Debug/net9.0/staticwebassets.build.json.cache
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/obj/Debug/net9.0/staticwebassets.development.json
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/obj/Debug/net9.0/Clean.We.07EF57BB.Up2Date
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/obj/Debug/net9.0/Clean.WebApi.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/obj/Debug/net9.0/refint/Clean.WebApi.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/obj/Debug/net9.0/Clean.WebApi.pdb
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/obj/Debug/net9.0/Clean.WebApi.genruntimeconfig.cache
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.WebApi/obj/Debug/net9.0/ref/Clean.WebApi.dll

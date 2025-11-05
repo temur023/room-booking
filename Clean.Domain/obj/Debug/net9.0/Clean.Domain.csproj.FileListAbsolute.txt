@@ -1,0 +1,58 @@
+/Users/fsdf/Downloads/room-booking-main/Clean.Domain/bin/Debug/net9.0/Clean.Domain.deps.json
+/Users/fsdf/Downloads/room-booking-main/Clean.Domain/bin/Debug/net9.0/Clean.Domain.runtimeconfig.json
+/Users/fsdf/Downloads/room-booking-main/Clean.Domain/bin/Debug/net9.0/Clean.Domain.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.Domain/bin/Debug/net9.0/Clean.Domain.pdb
+/Users/fsdf/Downloads/room-booking-main/Clean.Domain/obj/Debug/net9.0/Clean.Domain.csproj.AssemblyReference.cache
+/Users/fsdf/Downloads/room-booking-main/Clean.Domain/obj/Debug/net9.0/Clean.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fsdf/Downloads/room-booking-main/Clean.Domain/obj/Debug/net9.0/Clean.Domain.AssemblyInfoInputs.cache
+/Users/fsdf/Downloads/room-booking-main/Clean.Domain/obj/Debug/net9.0/Clean.Domain.AssemblyInfo.cs
+/Users/fsdf/Downloads/room-booking-main/Clean.Domain/obj/Debug/net9.0/Clean.Domain.csproj.CoreCompileInputs.cache
+/Users/fsdf/Downloads/room-booking-main/Clean.Domain/obj/Debug/net9.0/Clean.Domain.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.Domain/obj/Debug/net9.0/refint/Clean.Domain.dll
+/Users/fsdf/Downloads/room-booking-main/Clean.Domain/obj/Debug/net9.0/Clean.Domain.pdb
+/Users/fsdf/Downloads/room-booking-main/Clean.Domain/obj/Debug/net9.0/Clean.Domain.genruntimeconfig.cache
+/Users/fsdf/Downloads/room-booking-main/Clean.Domain/obj/Debug/net9.0/ref/Clean.Domain.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.Domain/bin/Debug/net9.0/Clean.Domain.deps.json
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.Domain/bin/Debug/net9.0/Clean.Domain.runtimeconfig.json
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.Domain/bin/Debug/net9.0/Clean.Domain.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.Domain/bin/Debug/net9.0/Clean.Domain.pdb
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.Domain/obj/Debug/net9.0/Clean.Domain.csproj.AssemblyReference.cache
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.Domain/obj/Debug/net9.0/Clean.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.Domain/obj/Debug/net9.0/Clean.Domain.AssemblyInfoInputs.cache
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.Domain/obj/Debug/net9.0/Clean.Domain.AssemblyInfo.cs
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.Domain/obj/Debug/net9.0/Clean.Domain.csproj.CoreCompileInputs.cache
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.Domain/obj/Debug/net9.0/Clean.Domain.sourcelink.json
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.Domain/obj/Debug/net9.0/Clean.Domain.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.Domain/obj/Debug/net9.0/refint/Clean.Domain.dll
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.Domain/obj/Debug/net9.0/Clean.Domain.pdb
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.Domain/obj/Debug/net9.0/Clean.Domain.genruntimeconfig.cache
+/Users/fsdf/Documents/Alif/RoomBooking/Clean.Domain/obj/Debug/net9.0/ref/Clean.Domain.dll
+D:/room-booking-main/room-booking-main/Clean.Domain/bin/Debug/net9.0/Clean.Domain.deps.json
+D:/room-booking-main/room-booking-main/Clean.Domain/bin/Debug/net9.0/Clean.Domain.runtimeconfig.json
+D:/room-booking-main/room-booking-main/Clean.Domain/bin/Debug/net9.0/Clean.Domain.dll
+D:/room-booking-main/room-booking-main/Clean.Domain/bin/Debug/net9.0/Clean.Domain.pdb
+D:/room-booking-main/room-booking-main/Clean.Domain/obj/Debug/net9.0/Clean.Domain.csproj.AssemblyReference.cache
+D:/room-booking-main/room-booking-main/Clean.Domain/obj/Debug/net9.0/Clean.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:/room-booking-main/room-booking-main/Clean.Domain/obj/Debug/net9.0/Clean.Domain.AssemblyInfoInputs.cache
+D:/room-booking-main/room-booking-main/Clean.Domain/obj/Debug/net9.0/Clean.Domain.AssemblyInfo.cs
+D:/room-booking-main/room-booking-main/Clean.Domain/obj/Debug/net9.0/Clean.Domain.csproj.CoreCompileInputs.cache
+D:/room-booking-main/room-booking-main/Clean.Domain/obj/Debug/net9.0/Clean.Domain.sourcelink.json
+D:/room-booking-main/room-booking-main/Clean.Domain/obj/Debug/net9.0/Clean.Domain.dll
+D:/room-booking-main/room-booking-main/Clean.Domain/obj/Debug/net9.0/refint/Clean.Domain.dll
+D:/room-booking-main/room-booking-main/Clean.Domain/obj/Debug/net9.0/Clean.Domain.pdb
+D:/room-booking-main/room-booking-main/Clean.Domain/obj/Debug/net9.0/Clean.Domain.genruntimeconfig.cache
+D:/room-booking-main/room-booking-main/Clean.Domain/obj/Debug/net9.0/ref/Clean.Domain.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.Domain/bin/Debug/net9.0/Clean.Domain.deps.json
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.Domain/bin/Debug/net9.0/Clean.Domain.runtimeconfig.json
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.Domain/bin/Debug/net9.0/Clean.Domain.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.Domain/bin/Debug/net9.0/Clean.Domain.pdb
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.Domain/obj/Debug/net9.0/Clean.Domain.csproj.AssemblyReference.cache
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.Domain/obj/Debug/net9.0/Clean.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.Domain/obj/Debug/net9.0/Clean.Domain.AssemblyInfoInputs.cache
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.Domain/obj/Debug/net9.0/Clean.Domain.AssemblyInfo.cs
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.Domain/obj/Debug/net9.0/Clean.Domain.csproj.CoreCompileInputs.cache
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.Domain/obj/Debug/net9.0/Clean.Domain.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.Domain/obj/Debug/net9.0/refint/Clean.Domain.dll
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.Domain/obj/Debug/net9.0/Clean.Domain.pdb
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.Domain/obj/Debug/net9.0/Clean.Domain.genruntimeconfig.cache
+/Users/fsdf/Downloads/room-booking-main 4/room-booking-main/Clean.Domain/obj/Debug/net9.0/ref/Clean.Domain.dll
